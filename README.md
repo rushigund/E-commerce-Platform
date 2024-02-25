@@ -1,5 +1,5 @@
 # E-commerce
-This project deals with developing a shopping website ‘E-commerce Website’. It provides the user with a list of the various products available for purchase in the store. For the convenience of online shopping, a shopping cart is provided to the user. After the selection of the products, it will be sent for the product order confirmation process. The complete system is implemented using Python's web framework Django.
+This project deals with developing a shopping website ‘E-commerce Website’. The website provides the user with a list of the various products available for purchase in the store. For the convenience of online shopping, a shopping cart is provided to the user. After the selection of the products, it will be sent for the confirmation process. The complete system is implemented using Python's web framework Django.
 
 1. Clone this repository into a desired folder on your computer
 2. Download Python
